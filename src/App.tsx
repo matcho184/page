@@ -30,7 +30,7 @@ export default function Page() {
   };
 
   return (
-    <div className="-mt-16 flex h-screen flex-col items-center justify-center">
+    <div className="-mt-16 flex h-screen flex-col items-center justify-center p-5">
       {yesPressed ? (
         <>
           <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
